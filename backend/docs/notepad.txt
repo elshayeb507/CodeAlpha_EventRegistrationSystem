@@ -1,0 +1,1 @@
+{"message":"Login successful","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6Im9yZ2FuaXplciIsImlhdCI6MTc4MzY3NTAwMSwiZXhwIjoxNzg0Mjc5ODAxfQ.taC8d69Oc6oA-uQVsnZ3b9qNwrk4ad8_XONZNcDwizo","user":{"id":1,"name":"Yassin Mohamed","email":"yassin@test.com","role":"organizer"}}
